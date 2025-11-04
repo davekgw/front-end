@@ -1,4 +1,3 @@
-jsx
 import React from "react";
 import Search from "./Search";
 import CardInfo from "./CardInfo/CardInfo";

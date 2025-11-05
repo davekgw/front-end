@@ -1,4 +1,4 @@
-###Group Member
+### Group Member
 * Koagow Dave
 * Wouw Christian
 * Matindas Doni
@@ -6,7 +6,7 @@
 * Mamahit Sthaford
   
 
-# React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

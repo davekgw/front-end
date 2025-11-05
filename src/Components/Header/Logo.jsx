@@ -1,5 +1,4 @@
 import React from "react";
-
 function Logo({ text }) {
   return (
     <div className="flex justify-center">

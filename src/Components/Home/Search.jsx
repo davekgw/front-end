@@ -1,5 +1,4 @@
 import React from "react";
-
 function Search({ text }) {
   return (
     <div className="flex justify-center mb-6">
